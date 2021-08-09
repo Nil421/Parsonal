@@ -1440,7 +1440,221 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 
 
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Star Vijay HD
+http://185.180.221.194:8278/streams/d/starvijay/playlist.m3u8
+#EXTINF:0 tvg-id="AajTak.in" group-title="GSE NO GROUP",Aaj Tak (720p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",ABP Hindi (720p)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",B4U Kadak (576p)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",MK Tunes (576p)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="GSE NO GROUP",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="GSE NO GROUP",Zee Cinema UK
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="GSE NO GROUP",Zee Cinema USA
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="GSE NO GROUP",Zee Classic
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Zee TV Canada HD
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="GSE NO GROUP",Zee TV HD
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Zee TV Russia
+https://f8e7y4c6.ssl.hwcdn.net/russia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Zee TV USA HD
+https://f8e7y4c6.ssl.hwcdn.net/ztvhdusa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Zee5 Originals
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Zee5 Romance
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:0 tvg-id="animal-hd" group-title="GSE NO GROUP",Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="GSE NO GROUP",Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="GSE NO GROUP",Discovery
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Star Gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="GSE NO GROUP",Star Gold HD
+http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Star Utsab
+https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="GSE NO GROUP",STAR PLUS HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="GSE NO GROUP",Star gold 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="Movies",STAR GOLD 2
+http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Movies",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v3a1/index.m3u8
+#EXTINF:0 tvg-id="Pictures.in" group-title="Movies",&Pictures Sd
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Cinema Us
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Movies",Zee Cinema Uk
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Movies",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Movies",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",&Flix Sd
+https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",&Flix Hd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",& Privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="RishteyCineplex.uk" group-title="Movies",Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Pitaara Tv
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/chunklist_w322362321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Ptc Punjabi Gold
+https://streaming.ptcplay.com/ptcpunjabiGoldINOne/smil:Live.smil/chunklist_w1855918665_b1396000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Colors Cineplex HD
+https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Movies",Sony Max Hd
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Movies",Sony Wah
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Movies",Sony Pix Hd
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Big Ganga
+https://y5w8j4a9.ssl.hwcdn.net/bigganga/index.m3u8
+#EXTINF:0 tvg-id="BigMagic.in" group-title="Entertainment",Big Magic
+https://y5w8j4a9.ssl.hwcdn.net/bigmagic/index.m3u8
+#EXTINF:0 tvg-id="Colors.in" group-title="Entertainment",Colors HD
+https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entertainment",Comedy Central HD
+https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
+#EXTINF:0 tvg-id="karusel" group-title="Entertainment",DD National
+https://viacom-b.multitvsolution.com/dashv/ddnational.mpd
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",DD Retro
+https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
+#EXTINF:0 tvg-id="Rishtey.uk" group-title="Entertainment",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:0 tvg-id="set" group-title="Entertainment",Sony Hd
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Entertainment",Sony pal
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Entertainment",Sony Sab
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:0 tvg-id="ZeeCafe.in" group-title="Entertainment",Zee Cafe Hd
+https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeCafe.uk" group-title="Entertainment",Zee Cafe Sd
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Zee Tv Canada
+https://y5w8j4a9.ssl.hwcdn.net/canadahd/index.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Entertainment",Zee Tv HD
+https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Entertainment",Zee Tv Uk
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entertainment",Zee Tv Usa
+https://y5w8j4a9.ssl.hwcdn.net/ztvsdusa/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="Music",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="Zing.uk" group-title="Music",Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/index.m3u8
+#EXTINF:0 tvg-id="9XM.in" group-title="Music",9xm
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",Mastii Music
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
+#EXTINF:0 tvg-id="zoom" group-title="Music",Zoom
+https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/master.m3u8
+#EXTINF:0 tvg-id="PTCChakDe.in" group-title="Music",Ptc Chakde
+https://streaming.ptcplay.com/ptcchakdeINONE/smil:Live.smil/chunklist_w372446408_b1396000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Beats HD
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV HD Plus
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+
+#EXTINF:0 tvg-id="nickelod" group-title="Kids",Nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#EXTINF:0 tvg-id="ext" group-title="Kids",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:0 tvg-id="ext" group-title="Kids",Sony Yay
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony Ten 1 Hd
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 Hd
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 Hd
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sports",Sony Ten 1 Sd
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony Ten 2 Sd
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony Ten 3 Sd
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="Sports",Sony Six Sd
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="News",Aaj Tak Hd
+https://aajtakhdlive-amd.akamaized.net/hls/live/2014415/aajtakhd/aajtakhdlive/aajtakhd_5/chunklist.m3u8
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="News",Abp News
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
+#EXTINF:0 tvg-id="NDTV.uk" group-title="News",Ndtv India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="News",Zee News
+http://zeeapp-lh.akamaihd.net/i/zeenews_1@336222/index_500_av-p.m3u8
+#EXTINF:0 tvg-id="CNBCAWAAZ.in" group-title="News",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_3_av-p.m3u8
+#EXTINF:0 tvg-id="IBN7.in" group-title="News",News18 India
+https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8
+#EXTINF:0 tvg-id="zee" group-title="News",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+#EXTINF:0 tvg-id="RepublicBharat.uk" group-title="News",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:0 tvg-id="IndiaNews.in" group-title="News",India News
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD148_W_350.sdp/chunklist.m3u8
+#EXTINF:0 tvg-id="news24" group-title="News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Rajya Sabha TV
+URL=http://164.100.49.18:8080/hls-live/livepkgr/_definst_/rstvlive/rstvlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Lok Sabha TV
+https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="DDNews.in" group-title="News",DD News
+URL=http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD100_W_150.sdp/samitv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Tv9 Bharatvarsh
+https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-id="AAJTAK.uk" group-title="News",Aaj Tak Sd
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+#EXTINF:0 tvg-id="Tez.in" group-title="News",Tez
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",News Nation
+https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in_360p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
+#EXTINF:0 tvg-id="NDTV.uk" group-title="News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+#EXTINF:0 tvg-id="NDTVProfit.in" group-title="News",NDTV Profit
+https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF:0 tvg-id="TimesNow.uk" group-title="News",Times Now
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Et Now
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="News",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="News",Abp Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master_764.m3u8
+#EXTINF:0 tvg-id="PTCNews.in" group-title="News",Ptc News
+https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 
 
 
