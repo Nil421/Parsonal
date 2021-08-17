@@ -169,7 +169,7 @@ http://103.81.104.118/hls/stream19.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/stargold.jpg" group-title="Hindi Movies",Star Gold HD 2
 http://stream.dhakaflix.com:8081/StarGold/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorscineplex.jpg" group-title="Hindi Movies",Star Gold HD 3
-http://luckonline.eu:8080/17424/cnyzqDETiP/605
+http://stream.dhakaflix.com:8081/StarGold/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/stargold.jpg" group-title="Hindi Movies",Star Gold HD 4
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/stargold.jpg" group-title="Hindi Movies",Star Gold HD 5
@@ -177,25 +177,25 @@ http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Hindi Movies",MBC Bolywood
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorscineplex.jpg" group-title="Hindi Movies",Colors Cineplex
-http://luckonline.eu:8080/17424/cnyzqDETiP/623
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi Movies",Colors Cineplex HD
 http://103.81.104.118/hls/stream29.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi Movies",Colors Cineplex HD 2http://luckonline.eu:8080/17424/cnyzqDETiP/633
-http://luckonline.eu:8080/17424/cnyzqDETiP/632
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD
 http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/zeecinemahd.jpg" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD 2
-
+http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD
 http://103.81.104.118/hls/stream14.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD Global
-http://luckonline.eu:8080/17424/cnyzqDETiP/618
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD 2
+http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",AXN
 http://stream.dhakaflix.com:8081/live/axn/chunks.m3u8?nimblesessionid=1159200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",Star Gold 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/605
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Sel 
-http://luckonline.eu:8080/17424/cnyzqDETiP/631
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Sel 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Sel 3
@@ -207,19 +207,19 @@ http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD
 https://cutt.ly/tQRxdtV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/601
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 3
 http://208.115.215.42/Sony_Max_HD/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max 2
 http://208.115.215.42/Sony_Max_HD_02/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 4
-http://luckonline.eu:8080/17424/cnyzqDETiP/1366
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/da/ManoranjanTVLogo.jpg/220px-ManoranjanTVLogo.jpg" group-title="Hindi Movies",Manoranjan Movies
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi Movies",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi Movies",Sony Wah 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/619
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://mobilfreetv.com/static/front/images/channel_logo/867c385db82edfb3236c6f76aba812b5_X.png" group-title="Hindi Movies",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png" group-title="Hindi Movies",Maha Movie
@@ -229,13 +229,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Hindi Movies",UTV HD 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://b4umovies.us/images/logo.jpg" group-title="Hindi Movies",B4u Movies
-http://luckonline.eu:8080/17424/cnyzqDETiP/607
+http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD Global
-http://luckonline.eu:8080/17424/cnyzqDETiP/583
+http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",Mini Plex
-http://luckonline.eu:8080/17424/cnyzqDETiP/630
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",And Xplorar
-http://luckonline.eu:8080/17424/cnyzqDETiP/635
+
 
 
 
