@@ -107,7 +107,7 @@ http://103.159.4.38:5868/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 http://10.16.100.204:8082/hls/sony_aat_local.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath 3
-http://bd.digiiptv.net:25461/moznu43/PA2443/566
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_aath&=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha SD
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD
@@ -121,7 +121,7 @@ http://103.159.4.38:5868/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD Global 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
-http://103.81.104.118/hls/stream28.m3u8
+https://tvstream.space/jtv/jioliveexe.php?c=Colors_Bengali_HD&=800&e=.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 4
 http://103.159.4.38:5868/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 2
@@ -417,7 +417,7 @@ https://is.gd/ObFrpt
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 2
 http://stream.dhakaflix.com:8081/&priveHD/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 3
-http://103.81.104.118/hls/stream1.m3u8
+https://tvstream.space/jtv/jioliveexe.php?c=Sony_Pix_HD&=800&e=.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix 4
 http://208.115.215.42/Sony_Pix_HD/playlist.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png",Sony Pix - 2
