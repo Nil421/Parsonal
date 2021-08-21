@@ -852,8 +852,8 @@ http://stream.dhakaflix.com:8081/live/sonyten3/chunks.m3u8
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png",Sony Ten 3
 http://luckonline.eu:8080/17424/cnyzqDETiP/518
-#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png",Sony Ten 3 (2)
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Sony_Ten_4_HD.png/revision/latest/scale-to-width-down/250?cb=20210601055318",Sony Ten 4
+https://tvstream.space/jtv/jioliveexe.php?c=Ten_4_HD_Tamil&=800&e=.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 (1)
 http://103.81.104.118/hls/stream15.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://10.16.100.244/files/starsports1(2).png",Star Sports 1 (2)
