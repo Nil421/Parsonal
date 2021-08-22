@@ -187,7 +187,7 @@ http://103.81.104.118/hls/stream25.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/zeecinemahd.jpg" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD 2
 http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD
-https://tvstream.space/jtv/jioliveexe.php?c=And_Pictures_HD&=800&e=.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48135
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD 2
 http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",AXN
@@ -218,16 +218,16 @@ http://178.79.161.66/woh/index.m3u8?id=48151
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_360p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi Movies",Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/77/Sonywah.jpg" group-title="Hindi Movies",Sony Wah 2
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/dish-tv-movies-active-tv-channel-logo-150x150.jpg" group-title="Hindi Movies",Movies Active
+http://178.79.161.66/woh/index.m3u8?id=48133
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://mobilfreetv.com/static/front/images/channel_logo/867c385db82edfb3236c6f76aba812b5_X.png" group-title="Hindi Movies",BFlix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://www.kcvnet.in/images/chanellogo/maha_movie_in.png" group-title="Hindi Movies",Maha Movie
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Hindi Movies",UTV HD
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Hindi Movies",UTV HD 2
-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Hindi Movies",B4U Movies
+http://178.79.161.66/woh/index.m3u8?id=48125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/UTV_HD.jpg" group-title="Hindi Movies",Enter 10 movies
+http://178.79.161.66/woh/index.m3u8?id=48126
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://b4umovies.us/images/logo.jpg" group-title="Hindi Movies",B4u Movies
 http://10.16.100.208:8082/hindi/B4Umovies_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD Global
@@ -329,7 +329,7 @@ https://d3t34m8y8rh0vb.cloudfront.net/preview/starvijay/master.m3u8?hdnts
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/Ct2gmRL.png",And PIC HD
 http://luckonline.eu:8080/17424/cnyzqDETiP/618
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV HD
-
+http://178.79.161.66/woh/index.m3u8?id=48130
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV SD
 
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV HD
@@ -428,6 +428,8 @@ https://tamilbreak.com/jiotv/live.php?c=Sony_Pix_HD&q=1200&e=.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix HD
+http://178.79.161.66/woh/index.m3u8?id=48128
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",&Flix SD
@@ -471,7 +473,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://tinyurl.com/2zphjmt7",mini plex
 http://178.79.161.66/woh/index.m3u8?id=48158
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48134
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Fox Life
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2018/02/26/utv-action.jpg",Utv Action
 
@@ -703,7 +705,7 @@ http://178.79.161.66/woh/index.m3u8?id=48143
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD 4k
 http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild HD Global
-http://103.157.237.18:8000/play/503
+http://178.79.161.66/woh/index.m3u8?id=48127
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild (Hindi)
 http://mygoodstream.pw/proxy.php/http://84.17.41.7:80/NATGEOWILD/INDI/HIN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/Ay4EtVz.png",Nat Geo Wild (Hindi)
@@ -865,8 +867,8 @@ http://10.16.100.207:8082/sports/star_sports_1_local.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 (3)
 http://stream.dhakaflix.com:8081/play/604/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 HD
-
+#EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_1_hindi_in.png",Star Sports 1 HD Hindi
+http://178.79.161.66/woh/index.m3u8?id=48120
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD (1)
 http://103.153.39.34:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="http://www.kcvnet.in/images/chanellogo/star_sports_2_in.png",Star Sports 2 HD (2)
