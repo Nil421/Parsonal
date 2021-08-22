@@ -92,7 +92,7 @@ https://is.gd/uzmL9M
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
-http://103.81.104.118/hls/stream30.m3u8
+https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla SD
@@ -105,6 +105,8 @@ http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 http://103.159.4.38:5868/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath icc
 http://10.16.100.204:8082/hls/sony_aat_local.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath 3
+http://iptvtree.net:8080/aumaleiptv/d051xyzaef399hp56/17005
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath 3
 https://tvstream.space/jtv/jioliveexe.php?c=Sony_aath&=800&e=.m3u8
@@ -117,7 +119,7 @@ http://stream.dhakaflix.com:8081/live/starjolsha/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD 3
 http://103.159.4.38:5868/IN-BANGLA-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD Global
-
+http://10.16.100.204:8082/hls/star_Jalsha_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/starjalsha.jpg" group-title="INDIAN BANGLA",Star Jalsha HD Global 2
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD
@@ -127,7 +129,7 @@ http://103.159.4.38:5868/IN-BANGLA-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 2
 http://stream.dhakaflix.com:8081/live/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/colorsbangla.jpg" group-title="INDIAN BANGLA",Colors Bangla HD 3
-
+http://10.16.100.204:8082/hls/coLors_bangla_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="INDIAN BANGLA",Enter10 Bangla
 http://103.81.104.118/hls/stream26.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/enter10bangla.jpg" group-title="INDIAN BANGLA",Enter10 Bangla 2
@@ -190,6 +192,8 @@ http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 http://178.79.161.66/woh/index.m3u8?id=48135
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD 2
 http://103.159.4.38:5868/MOVIE-7/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD 3
+http://10.16.100.208:8082/hindi/&picture_1stop_in.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="" group-title="Hindi Movies",AXN
 http://stream.dhakaflix.com:8081/live/axn/chunks.m3u8?nimblesessionid=1159200
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",Star Gold 2
@@ -249,7 +253,7 @@ http://stream.dhakaflix.com:8081/SonyTVHD/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv (Global)
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.ibb.co/HNj40jP/SONY.jpg",Sony Tv
-http://luckonline.eu:8080/17424/cnyzqDETiP/593
+http://10.16.100.208:8082/hindi/sonytv_1stop_in.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB 
 http://208.115.215.42/Sony_Sab_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB HD
@@ -257,7 +261,7 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB HD
 http://178.79.161.66/woh/index.m3u8?id=48152
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (Bdix)
-
+http://103.159.4.38:5868/MOVIE-15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png",Sony SAB (Global)
 
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i1.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/utv_movies.gif",Utv Movies
@@ -317,7 +321,7 @@ http://51.79.84.156:8082/ColorsIn/index.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors HD
 http://178.79.161.66/woh/index.m3u8?id=48102
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors HD 3
-
+http://10.16.100.208:8082/hindi/colors_in_1stop.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors HD 4
 
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors HD 4k
@@ -331,7 +335,7 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/618
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV HD
 http://178.79.161.66/woh/index.m3u8?id=48130
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV SD
-
+http://10.16.100.208:8082/hindi/andtv_1stop.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/dNoo87s.png",&TV HD
 
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png",Big Magic
@@ -964,12 +968,14 @@ https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="http://www.kcvnet.in/images/chanellogo/sangeet_bangla_in.png",Sangeet Bangla (global)
 https://dhauizqk3uwxi.cloudfront.net/SANGEET_BANGLA.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="http://www.kcvnet.in/images/chanellogo/sangeet_bangla_in.png",Sangeet Bangla
+http://10.16.100.200:8082/hls/songet_bangla_local.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://thumbs.dreamstime.com/b/i-love-u-simple-illustration-fun-logo-white-background-good-valentine-just-say-you-loved-one-77939229.jpg",I Love You
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global)
 https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/7NiS2Cd.png",Dhoom Music (Global) 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/536
+http://10.16.100.200:8082/hls/Dhoom_music_local.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png",RTV Music [BD]
 http://103.43.148.202:1931/iptv/rtvmusic.stream/chunks.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2018/11/bang-2-2.jpg",Bangla Talkies
@@ -1004,8 +1010,8 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/609
 http://luckonline.eu:8080/17424/cnyzqDETiP/6009
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/KKVYG8t/Screenshot-4-removebg-preview.png",Zoom
 https://y5w8j4a9.ssl.hwcdn.net/zee5_romance/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/KKVYG8t/Screenshot-4-removebg-preview.png",Zoom 2
-http://luckonline.eu:8080/17424/cnyzqDETiP/612
+#EXTINF:-1 group-title="Music" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSW_k3T6hNKT2_MoWcE9J6dBV09SzFUmg1TRPU9sQ=s900-c-k-c0x00ffffff-no-rj",Mo Music
+https://d38944htyexzq5.cloudfront.net/MO_MUSIC.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png",8XM
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/7K2YmRW/unnamed.png",Masti Tv
