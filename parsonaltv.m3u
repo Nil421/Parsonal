@@ -183,7 +183,7 @@ http://178.79.161.66/woh/index.m3u8?id=48141
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi Movies",Colors Cineplex HD 2http://luckonline.eu:8080/17424/cnyzqDETiP/633
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD
-http://103.81.104.118/hls/stream25.m3u8
+http://178.79.161.66/woh/index.m3u8?id=48113
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/zeecinemahd.jpg" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD 2
 http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD
@@ -275,7 +275,7 @@ http://stream.dhakaflix.com:8081/live/starplus/chunks.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-HD
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-HD
-http://luckonline.eu:8080/17424/cnyzqDETiP/588
+http://178.79.161.66/woh/index.m3u8?id=48109
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-HD
 http://luckonline.eu:8080/17424/cnyzqDETiP/589
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Utsav
@@ -297,7 +297,7 @@ http://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV
 http://stream.dhakaflix.com:8081/live/zeetv/chunks.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV (2)
-http://luckonline.eu:8080/17424/cnyzqDETiP/597
+http://178.79.161.66/woh/index.m3u8?id=48112
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.imgur.com/2JaTJ0M.png",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://is.gd/M5Phaz",Big Ganga
@@ -884,7 +884,7 @@ http://10.16.100.207:8082/sports/star_sportsselect1_local.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png",Star Sports Select 1 HD Hindi
 http://178.79.161.66/woh/index.m3u8?id=48110
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png",Star Sports Select 1 HD (2)
-
+http://178.79.161.66/woh/index.m3u8?id=48110
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png",Star Sports Select 1 HD (3)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/MG705fX/download-removebg-preview.png",Star Sports Select 1 HD (4)
@@ -896,7 +896,7 @@ http://178.79.161.66/woh/index.m3u8?id=48110
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2 (1)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2
-
+http://178.79.161.66/woh/index.m3u8?id=48111
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2 (2)
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/SSS2.jpg",Star Sports Select 2 (3)
