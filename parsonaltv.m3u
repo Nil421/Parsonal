@@ -201,7 +201,7 @@ http://178.79.161.66/woh/index.m3u8?id=48141
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/colorscineplex.jpg" group-title="Hindi Movies",Colors Cineplex HD 2http://luckonline.eu:8080/17424/cnyzqDETiP/633
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD
-http://178.79.161.66/woh/index.m3u8?id=48113
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="http://tv.pmcon.net/img/zeecinemahd.jpg" tvg-logo="http://tv.pmcon.net/img/zeecinemahd.jpg" group-title="Hindi Movies",Zee Cinema HD 2
 http://103.159.4.38:5868/MOVIE-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://tv.pmcon.net/img/andpictures-hd.jpg" group-title="Hindi Movies",And Pictures HD
