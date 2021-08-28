@@ -98,6 +98,8 @@ https://is.gd/uzmL9M
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
 https://d2k667g61yse6h.cloudfront.net/101.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD
+http://jupiter.bdcabletv.com/ZeeBanglaHD/video.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla SD
@@ -278,7 +280,7 @@ http://103.159.4.38:5868/MOVIE-15/tracks-v1a1/mono.m3u8
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.imgur.com/bu01fzb.png",Mtv
 
-#EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-1
+#EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-1 All
 http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-1 All
