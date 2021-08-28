@@ -4,12 +4,20 @@
 http://stream.dhakaflix.com:8081/EX/Free_Sports_SD-uk/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv HD
 http://10.16.100.207:8082/sports/gazi_tvhd_local.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/dbcnews.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="News 24" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png " group-title="Bangla",News 24
+http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png " group-title="Bangla",Independent
+http://iptvbd.jagobd.com:1931/boishakhi/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/500px-JamunaTV_logo.jpg "
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/1200px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png" group-title="Bangla",Nagorik 
 http://103.81.104.118/hls/stream24.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://10.16.100.244/files/nagorik.png" group-title="Bangla",Nagorik
 http://10.16.100.201:8082/bangla/naGorik_Tv_local.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV ICC
 http://10.16.100.201:8082/bangla/asiAntv_local.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Asian_TV_Logo.svg/1200px-Asian_TV_Logo.svg.png" group-title="Bangla",Asian TV ALL
+http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/16772
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w1200-h630-p-k-no-nu/desh-tv-2.jpg" group-title="Bangla",Desh tv
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dbc News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png " group-title="Bangla",Dbc News
@@ -93,9 +101,11 @@ https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla HD 2
 http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla SD
-http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+https://d2k667g61yse6h.cloudfront.net/101.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://103.81.104.118/img/zeebanglahd.jpg" group-title="INDIAN BANGLA",Zee Bangla SD 2
 http://10.16.100.204:8082/hls/z_bangla_local.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath ALL
+http://103.159.4.38:8080/IN-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath
 http://stream.dhakaflix.com:8081/Sonyaath/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="http://ihub.live/uploads/tv_image/sm/sony-aath.jpg" group-title="INDIAN BANGLA",Sony Aath 2
@@ -205,7 +215,7 @@ http://178.79.161.66/woh/index.m3u8?id=48108
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",Star Gold Sel 4
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Star_Gold_2.svg/1200px-Star_Gold_2.svg.png" group-title="Hindi Movies",Star gold 2
-http://84.17.41.7/JS_MoviesOK_Hin/mono.m3u8
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD
 https://cutt.ly/tQRxdtV
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://i.pinimg.com/originals/68/ef/be/68efbef9deae951e83fa16cabf1a3558.png" group-title="Hindi Movies",Sony Max HD 2
@@ -764,6 +774,8 @@ http://luckonline.eu:8080/17424/cnyzqDETiP/585
 
 
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -1 all
+http://137.59.155.77:8088/hls/06T_SportsBD.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -1
 http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports -2
