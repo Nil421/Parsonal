@@ -403,8 +403,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="http://103.109.56.115/skynet@8080/ftpdata/live_TV/gUu2nMa.png",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/5.m3u8
 
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",HBO
-http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.ibb.co/JKkbBdC/favpng-logo-hbo-now.png",Star World
+http://jupiter.bdcabletv.com/ENC-2/video.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/EgS8JD",HBO Family
 http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://i.imgur.com/BPtN337.png",Family Flix
@@ -475,8 +475,8 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/15114
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/nKrTKX",Fox Crime
 http://cloudcdn.tk:80/tuUO22w8572/442wnM854/3814
-#EXTINF:-1 group-title="World (Movies)" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/utv-hd-logo-300x300.jpg",Utv HD
-http://178.79.161.66/woh/index.m3u8?id=48143
+#EXTINF:-1 group-title="World (Movies)" tvg-logo="",Star Movies
+http://jupiter.bdcabletv.com/ENC-17/video.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies HD 2
 http://stream.dhakaflix.com:8081/live/starmovies/chunks.m3u8
 #EXTINF:-1 group-title="World (Movies)" tvg-logo="https://is.gd/aikPwd",Star Movies HD 1
