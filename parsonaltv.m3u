@@ -279,7 +279,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in_480p/index.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.imgur.com/bu01fzb.png",Mtv
 
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-1
-http://178.79.161.66/woh/index.m3u8?id=48109
+http://jupiter.bdcabletv.com/StarPlus/video.m3u8
 
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/StarPlus_%282010%29.png",Star Plus-1 All
 http://103.159.4.38:8080/IN-BANGLA-3/tracks-v1a1/mono.m3u8
@@ -319,12 +319,10 @@ https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/bigganga/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://i.ibb.co/phyqswj/preview.png",Zee Smile
 https://y5w8j4a9.ssl.hwcdn.net/smileusa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Star_bharat_clean.png",Star Bharat HD
-http://178.79.161.66/woh/index.m3u8?id=48104
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Star_bharat_clean.png",Star Bharat HD 2
-
+http://jupiter.bdcabletv.com/ENC-14/video.m3u8
 #EXTINF:-1 group-title="Indian Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Star_bharat_clean.png",Star Bharat HD 
-
+http://cloudcdn.tk:80/aEq06Jb8trLC14/EKo8Tx4497/10179
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors all
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 #EXTINF:-1 group-title="Indian (Entertainment)" tvg-logo="https://cineinfotv.com/wp-content/uploads/2020/01/ctc.png",Colors Tv-2
