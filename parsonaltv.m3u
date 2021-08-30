@@ -1636,3 +1636,113 @@ http://tv.aliflailabd.com:8989/sangeet-bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gtv" tvg-logo="http://ihub.live/uploads/tv_image/sm/gazi-tv.jpg" group-title="Bangla",Gazi tv
 http://103.81.104.118/hls/Gazi-TV.m3u8
+
+#EXTM3U
+#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="Bangla",ATN Bangla
+http://203.80.191.3:8089/load/atnbangla/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Ekushey TV
+http://203.80.191.3:8089/load/ekushytv/playlist.m3u8
+#EXTINF:0 tvg-id="rtvint" group-title="Bangla",RTV
+http://203.80.191.3:8089/load/rtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Gazi TV
+http://203.80.191.3:8089/load/gazitv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Bangla Vision
+http://203.80.191.3:8089/load/banglavision/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Deepto TV HD
+http://203.80.191.3:8089/load/deeptotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Asian TV
+http://203.80.191.3:8089/load/asiantv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Boishakhi TV
+http://203.80.191.3:8089/load/boishakitv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Desh TV
+http://203.80.191.3:8089/load/deshtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",SATV
+http://203.80.191.3:8089/load/satv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Nagorik TV
+http://203.80.191.3:8089/load/nagoriktv/playlist.m3u8
+#EXTINF:0 tvg-id="MYTV.in" group-title="Bangla",MY TV
+http://203.80.191.3:8089/load/mytv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Ekattor TV
+http://203.80.191.3:8089/load/ekattortv/playlist.m3u8
+#EXTINF:0 tvg-id="news24" group-title="Bangla",News 24
+http://203.80.191.3:8089/load/news24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Independent TV
+http://203.80.191.3:8089/load/independant/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",DBC News
+http://203.80.191.3:8089/load/dbcnews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Somoy News
+http://203.80.191.3:8089/load/somoynews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Jamuna TV
+http://203.80.191.3:8089/load/jamnuatv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Channel 24
+http://203.80.191.3:8089/load/channel24/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Gaan Bangla
+http://203.80.191.3:8089/load/gaanbangla/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla",Ananda TV
+02.KOLKATA
+
+#EXTINF:0 tvg-id="ext" group-title="Indian Bangla Entertainment ",Star Jalsha HD
+http://203.80.191.3:8089/nimble_live/starjalsha/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Indian Bangla Entertainment ",Zee Bangla HD
+http://203.80.191.3:8089/load/zeebanglahd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Bangla Entertainment ",Sony Aath
+http://203.80.191.3:8089/load/sonyaath/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Bangla Entertainment ",Colors Bangla HD
+http://203.80.191.3:8089/load/colorsbanglahd/playlist.m3u8
+
+#EXTINF:0 tvg-id="JalshaMovies.in" group-title="Indian Bangla Movies",Jalsha Movies
+http://203.80.191.3:8089/load/jalshamovies/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Bangla Movies",Zee Bangla Cinema
+http://203.80.191.3:8089/load/zeebanglacinema/playlist.m3u8
+
+#EXTINF:0 tvg-id="DhoomMusic.in" group-title="Indian Bangla Music",Dhoom Music
+03.HINDI
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi",&TV
+http://203.80.191.3:8089/load/andtvhd/playlist.m3u8
+
+#EXTINF:0 tvg-id="StarPlus.uk" group-title="Hindi Entertainment",Star Plus
+http://203.80.191.3:8089/nimble_live/sarplushd/playlist.m3u8
+#EXTINF:0 tvg-id="SonyHD.ar" group-title="Hindi Entertainment",Sony HD
+http://203.80.191.3:8089/load/sonyhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Entertainment",Sony SAB HD
+http://203.80.191.3:8089/nimble_live/sonysabhd/playlist.m3u8
+#EXTINF:0 tvg-id="Colors.in" group-title="Hindi Entertainment",Colors HD
+http://203.80.191.3:8089/load/colorshd/playlist.m3u8
+
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Hindi Movies",Star Gold HD
+http://203.80.191.3:8089/load/stargoldhd/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Hindi Movies",Zee Cinema HD
+http://203.80.191.3:8089/load/zeecinemahd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",SonyMax HD
+http://203.80.191.3:8089/load/sonymaxhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi Movies",SonyPix
+http://203.80.191.3:8089/nimble_live/sonypix/playlist.m3u8
+
+#EXTINF:0 tvg-id="TenHD.in" group-title="SPORTS",Sony Ten 1 HD
+http://203.80.191.3:8089/load/ten1hd/playlist.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="SPORTS",Sony Ten 2 HD
+http://203.80.191.3:8089/load/ten2hd/playlist.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="SPORTS",Sony Ten 3 HD
+http://203.80.191.3:8089/nimble_live/ten3hd/playlist.m3u8
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="SPORTS",Sony Six HD
+http://203.80.191.3:8089/load/sonysixhd/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",TenSports
+http://203.80.191.3:8089/nimble_live/tensports/playlist.m3u8
+#EXTINF:0 tvg-id="StarSportsSelect1.in" group-title="SPORTS",Star Sports Select 1
+http://203.80.191.3:8089/nimble_live/starselect1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",No name
+http://203.80.191.3:8089/nimble_live/skycricket/playlist.m3u8
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="SPORTS",Sky Sports Football
+http://203.80.191.3:8089/nimble_live/skyfootball/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SPORTS",PTV Sports
+http://203.80.191.3:8089/nimble_live/ptvsports/playlist.m3u8
+#EXTINF:0 tvg-id="WWEHD.ca" group-title="SPORTS",WWE HD
+http://203.80.191.3:8089/load/wwehd/playlist.m3u8
+
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="English",HBO
+http://203.80.191.3:8089/load/hbo/playlist.m3u8
+
+#EXTINF:0 tvg-id="NGCWild.eu" group-title="Infotainment",Nat Geo Wild
+http://203.80.191.3:8089/nimble_live/natgeo/playlist.m3u8
+
